@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2p", "p2p\p2p.csproj", "{F2ED218F-2116-4359-844B-96933CD9C59B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2p2", "p2p2\p2p2.csproj", "{A1758207-1E19-4349-806C-83A5DBF63D9A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F2ED218F-2116-4359-844B-96933CD9C59B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2ED218F-2116-4359-844B-96933CD9C59B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2ED218F-2116-4359-844B-96933CD9C59B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1758207-1E19-4349-806C-83A5DBF63D9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1758207-1E19-4349-806C-83A5DBF63D9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1758207-1E19-4349-806C-83A5DBF63D9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1758207-1E19-4349-806C-83A5DBF63D9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
